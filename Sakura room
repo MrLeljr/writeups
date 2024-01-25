@@ -1,0 +1,9 @@
+  This is my first ever writeup so I expect your tolerance in any possibe mistakes. So, this writeup will cove the sakura room from tryhackme, a very interesting OSINT room to sharpen your skill.
+
+
+  TASK 1:
+Task 1 is very simple, you should be able to do it without any help. Just type "LET'S GO".
+
+
+  TASK 2:
+Here is where things get interesting. We are presented with a photo that the attacker left. So my first instinct was to download the photo and use exiftool to analyse it further. 
